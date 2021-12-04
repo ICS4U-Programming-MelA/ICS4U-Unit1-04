@@ -36,7 +36,7 @@ class DiceGame {
         counter = counter + 1;
       } catch (InputMismatchException e1) {
         System.out.print("\n" + "That isn't an integer. Please try again.");
-	counter = counter + 1;
+        counter = counter + 1;
         input.reset();
         input.next();
       }
