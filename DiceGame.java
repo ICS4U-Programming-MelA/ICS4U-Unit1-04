@@ -1,7 +1,11 @@
+// Copywright (c) 2021 Mel Aguoth All rights reserved.
+//
+// Created By: Mel Aguoth
+// Date: December 6, 2021
 /* Generates a random number between 1 and 6 which the user has to guess for. If the guess is
  * wrong, it displays as such, and when finished it will tell them how many tries it took.
  */
-// Import modules.
+// Imports modules.
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
