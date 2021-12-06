@@ -6,7 +6,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-// Contains the dice game described above.
+// Contains and runs the dice game described above.
 class DiceGame {
   public static void main(String[] args) {
     int counter = 0;
