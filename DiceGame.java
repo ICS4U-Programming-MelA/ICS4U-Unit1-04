@@ -27,7 +27,7 @@ class DiceGame {
         System.out.print("\n" + "Enter a number between 1 and 6: ");
         userNumber = input.nextInt();
 
-        // Check and dislpay if the user's number is correct or incorrect.
+        // Check and display if the user's number is correct or incorrect.
         if (userNumber < 1 || userNumber > 6) {
           System.out.print("\n" + userNumber + " is out of range. Please try again.");
         } else if (userNumber == randomInt) {
@@ -43,7 +43,7 @@ class DiceGame {
           }
         }
 
-        // Increcment the counter.
+        // Increment the counter.
         counter = counter + 1;
 
         // Catch and display when the user's number is invalid.
