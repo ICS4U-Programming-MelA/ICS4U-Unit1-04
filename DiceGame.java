@@ -1,4 +1,4 @@
-// Copywright (c) 2021 Mel Aguoth All rights reserved.
+// Copyright (c) 2021 Mel Aguoth All rights reserved.
 //
 // Created By: Mel Aguoth
 // Date: December 6, 2021
