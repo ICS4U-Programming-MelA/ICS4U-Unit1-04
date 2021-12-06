@@ -1,7 +1,7 @@
 /* Generates a random number between 1 and 6 which the user has to guess for. If the guess is
  * wrong, it displays as such, and when finished it will tell them how many tries it took.
  */
-// Import modules..
+// Import modules.
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
