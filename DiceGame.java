@@ -9,7 +9,7 @@ import java.util.Scanner;
 class DiceGame {
   public static void main(String[] args) {
 
-    // Declare varaibles.
+    // Declare variables.
     int counter = 0;
     int userNumber = 0;
     Random random = new Random();
