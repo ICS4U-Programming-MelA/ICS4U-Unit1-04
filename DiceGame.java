@@ -1,10 +1,12 @@
 /* Generates a random number between 1 and 6 which the user has to guess for. If the guess is
  * wrong, it displays as such, and when finished it will tell them how many tries it took.
  */
+// Module imports.
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
+// Contains the dice game described above.
 class DiceGame {
   public static void main(String[] args) {
     int counter = 0;
